@@ -12,5 +12,14 @@
     "express": "^4.16.2",
     "json": "^9.0.6",
     "require": "^2.4.20"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wollenet/FriendFinder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wollenet/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/wollenet/FriendFinder#readme"
 }
