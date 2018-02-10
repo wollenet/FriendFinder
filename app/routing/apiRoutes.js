@@ -1,4 +1,4 @@
-
+module.exports = function(app) {
 
 app.post("/api/new", function(req, res) {
     var newFriend = req.body;
@@ -11,4 +11,4 @@ app.get("/api/friends", function(req, res) {
     res.json(friendsArr);
 });
 
-
+};
